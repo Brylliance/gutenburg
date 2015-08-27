@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(185,179,175);
+    padding: 15px;
+}
+h1 {
+    background-color: rgb(185,150,175);
+    font-family: Arial;
+    color: red;
+}
+hi+p {
+    background-color: rgb(160,70,98);
+}
+h2 {
+    font-family: Arial;
+    color: blue;
+}
+img {
+}
